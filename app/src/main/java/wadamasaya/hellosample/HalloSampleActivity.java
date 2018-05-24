@@ -50,6 +50,7 @@ public class HalloSampleActivity extends AppCompatActivity {
                 //メッセージを表示。
                 output.setText(inputStr + "さん、こんにちは！");
                 break;
+                
 
             //クリアボタンの場合・・・
                 case R.id.btClear:
